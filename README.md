@@ -31,7 +31,7 @@ A full-featured **Event Management Platform** built using the **MERN Stack** (Mo
 | Database    | MongoDB (Mongoose)       |
 | Auth        | JWT, bcrypt              |
 | Tools       | Postman, Git, GitHub     |
-| Deployment  | Vercel (Frontend), Render/Railway (Backend), MongoDB Atlas |
+| Deployment  |netlify (Frontend), Render (Backend), MongoDB Atlas |
 
 ## 🚀 Getting Started
 
